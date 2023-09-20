@@ -1,3 +1,3 @@
 # Sistema
-Sistema de ventas , cobranzas , compras y pagos.
+Sistema de ventas para administrar productos y pedidos.
 Grupo:Quimey Delgado
