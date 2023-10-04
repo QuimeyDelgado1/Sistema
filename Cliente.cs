@@ -24,7 +24,7 @@ public class Cliente
   /// <summary>
   /// 
   /// </summary>
-  private int id;
+  private int ID;
 
 
   /// <summary>
