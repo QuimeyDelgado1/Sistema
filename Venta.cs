@@ -43,7 +43,7 @@ public class Venta
   /// <summary>
   /// 
   /// </summary>
-  private Producto[] productos;
+  private Producto[] producto;
 
 
 
