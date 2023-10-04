@@ -25,13 +25,13 @@ public class Venta
   /// <summary>
   /// 
   /// </summary>
-  private int id;
+  private int ID;
 
 
   /// <summary>
   /// 
   /// </summary>
-  private date fechaDeVenta;
+  private DateTime fechaDeVenta;
 
 
   /// <summary>
