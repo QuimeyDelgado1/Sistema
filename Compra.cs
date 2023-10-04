@@ -31,7 +31,7 @@ public class Compra
   /// <summary>
   /// 
   /// </summary>
-  private date fechaDeCompra;
+  private DateTime fechaDeCompra;
 
 
   /// <summary>
