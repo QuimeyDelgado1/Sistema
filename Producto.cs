@@ -40,6 +40,12 @@ public class Producto
   private float precio;
 
 
+  /// <summary>
+  /// 
+  /// </summary>
+  private int stock;
+
+
 
   #endregion
 
